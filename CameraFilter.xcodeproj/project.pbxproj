@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C30437322CBA010004735F8 /* FilterService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30437222CBA010004735F8 /* FilterService.swift */; };
 		4C45983422CB224300B53DDD /* PhotosCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C45983322CB224300B53DDD /* PhotosCollectionViewCell.swift */; };
 		4C84DB1522BE82000020D4F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84DB1422BE82000020D4F0 /* AppDelegate.swift */; };
 		4C84DB1722BE82000020D4F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84DB1622BE82000020D4F0 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C30437222CBA010004735F8 /* FilterService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterService.swift; sourceTree = "<group>"; };
 		4C45983322CB224300B53DDD /* PhotosCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosCollectionViewCell.swift; sourceTree = "<group>"; };
 		4C84DB1122BE82000020D4F0 /* CameraFilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CameraFilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C84DB1422BE82000020D4F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				4C84DB2022BE82010020D4F0 /* Info.plist */,
 				4CBBAB0422CA49680079D187 /* PhotosCollectionViewController.swift */,
 				4C45983322CB224300B53DDD /* PhotosCollectionViewCell.swift */,
+				4C30437222CBA010004735F8 /* FilterService.swift */,
 			);
 			path = CameraFilter;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4CBBAB0522CA49680079D187 /* PhotosCollectionViewController.swift in Sources */,
+				4C30437322CBA010004735F8 /* FilterService.swift in Sources */,
 				4C45983422CB224300B53DDD /* PhotosCollectionViewCell.swift in Sources */,
 				4C84DB1722BE82000020D4F0 /* ViewController.swift in Sources */,
 				4C84DB1522BE82000020D4F0 /* AppDelegate.swift in Sources */,
